@@ -73,8 +73,8 @@ const Home: React.FC = () => {
             <div className="w-full lg:w-1/2 relative">
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
                 <img 
-                  src="https://images.unsplash.com/photo-1549487593-9c4c5db59844?q=80&w=1200&auto=format&fit=crop" 
-                  alt="Compass in Desert" 
+                  src="https://images.unsplash.com/photo-1509023464722-18d996393ca8?q=80&w=1200&auto=format&fit=crop" 
+                  alt="Vast Desert" 
                   className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                 />
               </div>
